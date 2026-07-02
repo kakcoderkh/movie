@@ -1,0 +1,6 @@
+title,category,videoUrl,isIframe,thumbnail,description,year
+Big Buck Bunny,Animation,https://www.youtube.com/watch?v=YE7VzlLtp-4,,,A giant rabbit deals with three bullying rodents. Blender Foundation open movie.,2008
+Sintel,Animation,https://www.youtube.com/watch?v=eRsGyueVLvQ,,,A lone girl searches for a baby dragon across a barren world.,2010
+Tears of Steel,Sci-Fi,https://www.youtube.com/watch?v=R6MlUcmOul8,,,A group of warriors and scientists gather to reclaim earth from robots.,2012
+Cosmos Laundromat,Animation,https://www.youtube.com/watch?v=Y-rmzh0PI3c,,,A depressed sheep gets a chance to restart his life on a spectacular adventure.,2015
+ok.ru Sample Embed,Foreign Films,https://ok.ru/videoembed/7095029860883?nochat=1,TRUE,,Example row using the isIframe flag for a provider that requires an iframe embed rather than a direct link.,
