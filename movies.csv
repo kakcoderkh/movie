@@ -1,8 +1,4 @@
-title,category,videoUrl,isIframe,thumbnail,description,year
-Big Buck Bunny,Animation,https://www.youtube.com/watch?v=YE7VzlLtp-4,,,A giant rabbit deals with three bullying rodents. Blender Foundation open movie.,2008
-Sintel,Animation,https://www.youtube.com/watch?v=eRsGyueVLvQ,,,A lone girl searches for a baby dragon across a barren world.,2010
-Tears of Steel,Sci-Fi,https://www.youtube.com/watch?v=R6MlUcmOul8,,,A group of warriors and scientists gather to reclaim earth from robots.,2012
-Cosmos Laundromat,Animation,https://www.youtube.com/watch?v=Y-rmzh0PI3c,,,A depressed sheep gets a chance to restart his life on a spectacular adventure.,2015
+title,category,videoUrl,isIframe,thumbnail,description,year,genre,showThumbnail
 Ep 1,Our Secret,https://bigf.bigo.sg/asia_live/V4s7/1ZAJHX.mp4,FALSE,N/A,Our Secret movie,N/A
 Ep 2,Our Secret,https://bigf.bigo.sg/asia_live/V4s7/1ZKbtj.mp4,FALSE,N/A,Our Secret movie,N/A
 Ep 3,Our Secret,https://bigf.bigo.sg/asia_live/V4s7/0aUV2v.mp4,FALSE,N/A,Our Secret movie,N/A
